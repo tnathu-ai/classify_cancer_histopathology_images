@@ -1,5 +1,4 @@
-# COSC2673-2793-Assignment2
-
+# Classify Images of Cancer
 
 Assignment 2: Machine Learning Project
 
@@ -20,5 +19,6 @@ Assignment 2: Machine Learning Project
 # Independent Evaluation and Relevant Researches
 
 reproducing existing work, and comparing new results against exist work.
-+ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7399414&tag=1
-+ https://www.nature.com/articles/srep45938
+
+- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7399414&tag=1
+- https://www.nature.com/articles/srep45938
