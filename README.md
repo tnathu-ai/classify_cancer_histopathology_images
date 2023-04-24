@@ -16,6 +16,7 @@ Assignment 2: Machine Learning Project
 
 ## Repository Structure
 
+```
 ├── Image_classification_data
 │ ├── patch_images
 │ └── data_labels_extraData.csv
@@ -33,6 +34,7 @@ Assignment 2: Machine Learning Project
 └── requirement_rubic
 ├── COSC2673_2793_Assignment2.pdf
 └── rubric-assignment2.pdf
+```
 
 # Independent Evaluation and Relevant Researches
 
