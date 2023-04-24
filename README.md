@@ -16,3 +16,9 @@ Assignment 2: Machine Learning Project
 </table>
 
 ## Repository Structure
+
+# Independent Evaluation and Relevant Researches
+
+reproducing existing work, and comparing new results against exist work.
++ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7399414&tag=1
++ https://www.nature.com/articles/srep45938
