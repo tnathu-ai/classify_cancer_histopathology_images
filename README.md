@@ -31,7 +31,7 @@ Assignment 2: Machine Learning Project
 │ └── notebook.ipynb
 ├── python_scripts
 ├── report
-└── requirement_rubic
+└── requirement_rubric
 ├── COSC2673_2793_Assignment2.pdf
 └── rubric-assignment2.pdf
 ```
