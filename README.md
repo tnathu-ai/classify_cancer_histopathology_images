@@ -18,23 +18,21 @@ Assignment 2: Machine Learning Project
 
 1. Clone this repository to your local machine.
 
-2. Ensure that you have the necessary packages installed. These can be found in the requirements.txt file. To install them, use the following command in your terminal:
+2. Ensure that you have the necessary packages installed. These can be found in the `requirements.txt` file. To install them, use the following command in your terminal:
 
-```
+```python
 pip install -r requirements.txt
 ```
 
-3. Unzip the Image_classification_data.zip file to access the original data used for this project.
+3. Navigate to the `jupyter_notebook` directory and open the `notebook.ipynb` file. This Jupyter notebook contains all the code and detailed analysis for this project.
 
-4. Navigate to the jupyter_notebook directory and open the notebook.ipynb file. This Jupyter notebook contains all the code and detailed analysis for this project.
+4. If you want to test the models, you can find the trained models in the `jupyter_notebook/models` directory.
 
-5. If you want to test the models, you can find the trained models in the jupyter_notebook/models directory.
+5. You can find the evaluation reports for the data in `independent_evaluation` directory.
 
-6. You can find the evaluation report for the data in independent_evaluation/srep45938.pdf.
+6. `output_data` folder contains the processed data used for the project. This includes a CSV file of combined data and evaluation reports.
 
-7. output_data contains the processed data used for the project. This includes a CSV file of combined data and evaluation reports.
-
-8. For details on the project requirements and grading rubric, refer to the requirement_rubric directory.
+7. For details on the project requirements and grading rubric, refer to the `requirement_rubric` directory.
 
 Please note that this project requires Python 3.6 or later and pip for installing packages. If you encounter any issues, please feel free to open an issue in this repository.
 
