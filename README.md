@@ -14,7 +14,11 @@ Assignment 2: Machine Learning Project
     </tr>
 </table>
 
-# Getting Started
+# Introduction
+
+The dataset description contains 27x27 RGB images of cells from 99 different patients. The images are histopathology images that show cells at the microscopic level. The goal is to classify these cells based on whether they are cancerous and also to classify them according to their cell type.
+
+# Instructions
 
 1. Clone this repository to your local machine.
 
@@ -46,23 +50,20 @@ Here is an overview of the repository structure:
 ├── README.md                               # This README file.
 ├── data_source.pdf                         # Documentation of the data source.
 ├── independent_evaluation                  # Directory containing independent evaluation of the data.
-│   └── srep45938.pdf                       # Detailed evaluation report.
 ├── jupyter_notebook                        # Jupyter notebook containing the code and analysis.
 │   ├── models                              # Trained models from the project.
 │   ├── my_dir                              # Directory containing tuning results.
 │   ├── notebook.ipynb                      # The main Jupyter notebook with the entire analysis and code.
 │   └── tuning                              # Directory containing tuning results.
+│   └── notebook.pdf                        # Pdf file containing the code and analysis.
 ├── output_data                             # Processed data used for the project.
 ├── requirement_rubric                      # Assignment requirement and rubric.
 └── requirements.txt                        # Required packages for the project.
 ```
 
-# Independent Evaluation and Relevant Researches
-
-reproducing existing work, and comparing new results against exist work.
+# Data source
 
 - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7399414&tag=1
-- https://www.nature.com/articles/srep45938
 
 # License
 
