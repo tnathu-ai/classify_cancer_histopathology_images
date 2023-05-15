@@ -55,7 +55,8 @@ Here is an overview of the repository structure:
 │   ├── my_dir                              # Directory containing tuning results.
 │   ├── notebook.ipynb                      # The main Jupyter notebook with the entire analysis and code.
 │   └── tuning                              # Directory containing tuning results.
-│   └── notebook.pdf                        # Pdf file containing the code and analysis.
+│   └── notebook.pdf                        # Pdf file of the jupyter notebook
+│   └── notebook.py                         # python file of the jupyter notebook.
 ├── output_data                             # Output data used for the project
 ├── requirement_rubric                      # Assignment requirement and rubric.
 └── requirements.txt                        # Required packages for the project.
