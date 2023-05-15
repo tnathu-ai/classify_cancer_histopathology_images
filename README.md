@@ -49,14 +49,14 @@ Here is an overview of the repository structure:
 ├── LICENSE                                 # License for the project.
 ├── README.md                               # This README file.
 ├── data_source.pdf                         # Documentation of the data source.
-├── independent_evaluation                  # Directory containing independent evaluation of the data.
+├── independent_evaluation                  # Directory containing pdfs of independent evaluation metrics.
 ├── jupyter_notebook                        # Jupyter notebook containing the code and analysis.
 │   ├── models                              # Trained models from the project.
 │   ├── my_dir                              # Directory containing tuning results.
 │   ├── notebook.ipynb                      # The main Jupyter notebook with the entire analysis and code.
 │   └── tuning                              # Directory containing tuning results.
 │   └── notebook.pdf                        # Pdf file containing the code and analysis.
-├── output_data                             # Processed data used for the project.
+├── output_data                             # Output data used for the project
 ├── requirement_rubric                      # Assignment requirement and rubric.
 └── requirements.txt                        # Required packages for the project.
 ```
